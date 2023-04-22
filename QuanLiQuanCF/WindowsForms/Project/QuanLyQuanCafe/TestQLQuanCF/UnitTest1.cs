@@ -16,6 +16,7 @@ namespace TestQLQuanCF
 
             };
 
+
             TestAll log = new TestAll();
             foreach (var item in testDatas)
             {
@@ -85,7 +86,6 @@ namespace TestQLQuanCF
             Assert.AreEqual(true, res);
         }
 
-        [TestMethod]
-        public void clickButton
+     
     }
 }

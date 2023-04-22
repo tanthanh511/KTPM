@@ -10,3 +10,15 @@ D:\kiem_thu_phan_mem\Nhom11\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\Tes
 D:\kiem_thu_phan_mem\Nhom11\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\refint\TestLib.dll
 D:\kiem_thu_phan_mem\Nhom11\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.pdb
 D:\kiem_thu_phan_mem\Nhom11\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\ref\TestLib.dll
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\bin\Debug\net7.0\TestLib.deps.json
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\bin\Debug\net7.0\TestLib.dll
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\bin\Debug\net7.0\TestLib.pdb
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.csproj.AssemblyReference.cache
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.AssemblyInfoInputs.cache
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.AssemblyInfo.cs
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.csproj.CoreCompileInputs.cache
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.dll
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\refint\TestLib.dll
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\TestLib.pdb
+D:\kiem_thu_phan_mem\do_an_kiem_thu\KTPM\QuanLiQuanCF\WindowsForms\Project\QuanLyQuanCafe\TestLib\obj\Debug\net7.0\ref\TestLib.dll

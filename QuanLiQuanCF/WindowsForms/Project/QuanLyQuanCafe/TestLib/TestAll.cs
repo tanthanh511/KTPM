@@ -33,5 +33,24 @@ namespace TestLib
         {
             return TableDAO.Instance.LoadTableList().Count() > 0;
         }
+
+        public bool UpdateAccount(string userName,string  displayName,string password,string newPassword)
+        {
+            if (AccountDAO.Instance.GetAccountByUserName(userName) != null)
+            {
+                return AccountDAO.Instance.UpdateAccount(userName, displayName, password, newPassword);
+            }
+            else return false;
+        }
+        public bool LoadAccount()
+        {
+            return AccountDAO.Instance.GetListAccount().Rows.Count > 0;
+        }
+
+        public bool AddAccount(string userName,string displayName,int Type)
+        {
+            return AccountDAO.Instance.InsertAccount(userName, displayName, Type);
+        }
+
     }
 }
