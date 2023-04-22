@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyQuanCafe.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAABAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.AccountDAO" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQABAAAAAAAAAAAAAQAAAAABAAAAAQAEQAQAAAAA=</HashCode>
+      <FileName>DAO\AccountDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.quanlicf" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\AccountDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.BillDAO" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAABAAAAAAAQBAAAABAAAAAQAAAAAAAgBA=</HashCode>
+      <FileName>DAO\BillDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.BillInforDAO" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACIAABAAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>DAO\BillInforDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.CategoryDAO" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAIAAAAABAAAABQAAACAAAAAA=</HashCode>
+      <FileName>DAO\CategoryDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.DataProvider" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAEAAAABAAAABQAAAAAAAAAA=</HashCode>
+      <FileName>DAO\DataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.FoodDAO" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAABQAAIAACABAABAAQAAAAgAAAAA=</HashCode>
+      <FileName>DAO\FoodDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.MenuDAO" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DAO\MenuDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.TableDAO" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAIAAAQAAAAQAAAAABAAAAARAAAAAAgAAA=</HashCode>
+      <FileName>DAO\TableDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DAO.Category" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.Account" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAAAAAAAAAAAAAAABAAACAQAAAgEAAAA=</HashCode>
+      <FileName>DTO\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.Bill" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAEAAAAAAAAAAAAIAAAACQAAAAEAgAAAAIAAgA=</HashCode>
+      <FileName>DTO\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.BillInfor" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAABIIAAAQCAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>DTO\BillInfor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.Food" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAQAAggAAAIAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.Menu" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAwAAAAAABAAAAARAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.DTO.Table" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAgAAAAIAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.fAccountProfile" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAQAAQFSAAABAQBACAQAASACAIAAAACAAAAQEAAAA=</HashCode>
+      <FileName>fAccountProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.AccountEvent" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>fAccountProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.fAdmin" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cEo2wOcTS6IGBRigQSagCbxCCLVgkTQBQZAqb8n/G5s=</HashCode>
+      <FileName>fAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.fLogin" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQQECAAABAAAACAAAASACAACAAAAAQQAQBAAAA=</HashCode>
+      <FileName>fLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.fTableManager" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RQAgACAAgSQCSFAlBACAAEDK47BKBwIQHARSAQACAAA=</HashCode>
+      <FileName>fTableManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyQuanCafe.Program" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

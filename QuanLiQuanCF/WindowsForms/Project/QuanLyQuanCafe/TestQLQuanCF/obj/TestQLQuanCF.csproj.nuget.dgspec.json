@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {}
+  },
+  "projects": {
+    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
+        "projectName": "TestLib",
+        "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
+        "packagesPath": "C:\\Users\\Thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
+        "projectName": "TestQLQuanCF",
+        "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
+        "packagesPath": "C:\\Users\\Thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
+                "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
