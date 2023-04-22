@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/HKQBZMJMBfBTahBc3ePYd5CoqDLNyoqWscHrQgM0cM/1hq7mF1/JhYZVNeDjWbvu2n+RzAcMD0+4JVE+zf3pQ==",
+  "dgSpecHash": "zQH5o3GI9ZcMfJEZUttinEQKhI5qly2m2aobWd15wrk1aqGZN/NRdCh4NJYOTb8RHE4OVTlLI/W3GpIai3dqjQ==",
   "success": true,
-  "projectFilePath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+  "projectFilePath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thanh\\.nuget\\packages\\crystalreports.axshockwaveflashobjects\\13.0.4001\\crystalreports.axshockwaveflashobjects.13.0.4001.nupkg.sha512",
     "C:\\Users\\Thanh\\.nuget\\packages\\crystalreports.engine\\13.0.4001\\crystalreports.engine.13.0.4001.nupkg.sha512",

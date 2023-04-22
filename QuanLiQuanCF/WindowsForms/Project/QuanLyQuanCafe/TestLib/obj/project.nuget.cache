@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/p0BCFUmdHpUhzFqq9jybE3eBmMM4PXRq6DtVyD1ip9+URgHjQJ7YLcUUXDSM+2KOOYGVCEmt+/j0W25NkNO5Q==",
+  "dgSpecHash": "q1FjLo5o3kzmESkz+8Z6SaqeS9eGC1lZgs8bYC12H1PaXI4R6/e9eQUtrZt48bfs3FgclCnSKnSdjO/uKFqTSw==",
   "success": true,
-  "projectFilePath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
+  "projectFilePath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thanh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Thanh\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

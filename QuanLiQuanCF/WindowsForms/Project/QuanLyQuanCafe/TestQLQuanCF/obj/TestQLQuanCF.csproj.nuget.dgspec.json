@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {}
+    "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {}
   },
   "projects": {
-    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
+    "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
+        "projectUniqueName": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
         "projectName": "TestLib",
-        "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
+        "projectPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj",
         "packagesPath": "C:\\Users\\Thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\obj\\",
+        "outputPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {
+    "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
+        "projectUniqueName": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
         "projectName": "TestQLQuanCF",
-        "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
+        "projectPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
         "packagesPath": "C:\\Users\\Thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\obj\\",
+        "outputPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
-                "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj"
+              "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj": {
+                "projectPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestLib\\TestLib.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj": {}
+    "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj": {}
   },
   "projects": {
-    "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj": {
+    "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+        "projectUniqueName": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
         "projectName": "QuanLyQuanCafe",
-        "projectPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+        "projectPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
         "packagesPath": "C:\\Users\\Thanh\\.nuget\\packages\\",
-        "outputPath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\obj\\",
+        "outputPath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\QuanLyQuanCafe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

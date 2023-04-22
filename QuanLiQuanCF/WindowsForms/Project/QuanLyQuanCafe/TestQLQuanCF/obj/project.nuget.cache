@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d8chhsStH49ny+ss+k3gYgCWQGIOko4nqd6bHLBue6hr3xkpiMdIF613fa0AkgHNWd5IB1cy1KOEuyijA7Bu2w==",
+  "dgSpecHash": "63EFJkUNiKcFUHy/P2eNhQHjrQhOWb2Wd0504ciNidccwySrl3g5GXTCf1SidjElj7nzhpaspKeLX4PT4VEwIw==",
   "success": true,
-  "projectFilePath": "D:\\kiem_thu_phan_mem\\Nhom11\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
+  "projectFilePath": "D:\\kiem_thu_phan_mem\\do_an_kiem_thu\\KTPM\\QuanLiQuanCF\\WindowsForms\\Project\\QuanLyQuanCafe\\TestQLQuanCF\\TestQLQuanCF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thanh\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Thanh\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
