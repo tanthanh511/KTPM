@@ -1,4 +1,4 @@
-
+﻿
 using TestLib;
 
 namespace TestQLQuanCF
@@ -7,7 +7,7 @@ namespace TestQLQuanCF
     public class admin
     {
       
-
+        // hàm add lỗi bởi vì đã thêm vào csdl rồi test lại sẽ bị trùng dữ liệu
         [TestMethod]
         public void TestLoadAccount()
         {
@@ -34,59 +34,44 @@ namespace TestQLQuanCF
             }
         }
 
+
         [TestMethod]
-        public void TestLoadFoodByCategoryID()
+        public void TestUpdateAccount()
         {
-            var testDatas = new TestDataFood[]
+            var testDatas = new TestAddAccount[]
             {
-                new TestDataFood(1, true),
-                new TestDataFood (2,true),
+                new TestAddAccount("dnt", "dntx",1, true),
+                new TestAddAccount ("ntk", "ntkkk",0, true),
 
             };
 
-            TestAll t = new TestAll();
+            TestAll log = new TestAll();
             foreach (var item in testDatas)
             {
-                var res = t.LoadFoodListByCategoryID(item.id);
+                var res = log.UpdateAccount(item.userName, item.displayName, item.Type);
                 Assert.AreEqual(item.result, res);
             }
         }
 
 
         [TestMethod]
-        public void TestLoadTable()
+        public void TestDeleteAccount()
         {
-            TestAll t = new TestAll();
-            var res = t.LoadTable();
-            Assert.AreEqual(true, res);
-        }
-
-        [TestMethod]
-        public void ShowBill()
-        {
-            var testDatas = new TestDataFood[]
+            var testDatas = new TestDeleteAccount[]
             {
-                new TestDataFood(1, true),
-                new TestDataFood (2,true),
+                new TestDeleteAccount("dnt", true),
+                
 
             };
 
-            TestAll t = new TestAll();
+            TestAll log = new TestAll();
             foreach (var item in testDatas)
             {
-                var res = t.ShowBill(item.id);
+                var res = log.DeleteAccount(item.userName);
                 Assert.AreEqual(item.result, res);
             }
         }
 
-        [TestMethod]
-        public void LoadComboBoxTable()
-        {
-            TestAll t = new TestAll();
-            var res = t.LoadComboBoxTable();
-            Assert.AreEqual(true, res);
-        }
 
-     
     }
 }

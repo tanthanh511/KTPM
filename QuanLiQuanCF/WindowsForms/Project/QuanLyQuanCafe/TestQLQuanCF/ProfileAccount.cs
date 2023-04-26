@@ -7,7 +7,7 @@ namespace TestQLQuanCF
     public class ProfileAccount
     {
         [TestMethod]
-        public void TestAccount()
+        public void TestAccountInfo()
         {
             var testData = new TestDataAccount[]
             {

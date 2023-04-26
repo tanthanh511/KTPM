@@ -52,5 +52,21 @@ namespace TestLib
             return AccountDAO.Instance.InsertAccount(userName, displayName, Type);
         }
 
+        public bool UpdateAccount(string userName, string displayName, int Type)
+        {
+            return AccountDAO.Instance.UpdateAccount(userName, displayName, Type);
+        }
+
+        public bool DeleteAccount(string userName)
+        {
+            if (AccountDAO.Instance.GetAccountByUserName(userName) != null)
+            {
+                return AccountDAO.Instance.DeleteAccount(userName);
+            }
+            else return false;
+            
+        }
+        
+
     }
 }

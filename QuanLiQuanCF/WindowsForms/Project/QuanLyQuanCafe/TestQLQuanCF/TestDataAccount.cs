@@ -39,4 +39,20 @@ namespace TestQLQuanCF
             this.result = result;
         }
     }
+
+
+    public class TestDeleteAccount
+    {
+        public string userName;
+        
+        public bool result;
+
+        public TestDeleteAccount(string userName,  bool result)
+        {
+            this.userName = userName;
+           
+            this.result = result;
+        }
+    }
+
 }
